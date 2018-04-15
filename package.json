@@ -1,0 +1,24 @@
+{
+  "name": "environment",
+  "version": "0.9.0",
+  "description": "___        ______     ____ _                 _  ___           / \\ \\      / / ___|   / ___| | ___  _   _  __| |/ _ \\         / _ \\ \\ /\\ / /\\___ \\  | |   | |/ _ \\| | | |/ _` | (_) |       / ___ \\ V  V /  ___) | | |___| | (_) | |_| | (_| |\\__, |      /_/   \\_\\_/\\_/  |____/   \\____|_|\\___/ \\__,_|\\__,_|  /_/   -----------------------------------------------------------------",
+  "main": "index.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2",
+    "how-to-npm": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinik17/git-repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marinik17/git-repo/issues"
+  },
+  "homepage": "https://github.com/marinik17/git-repo#readme"
+}
